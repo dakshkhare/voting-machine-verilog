@@ -32,7 +32,6 @@ File | Description
 
 - <img width="902" alt="waveform" src="https://github.com/user-attachments/assets/3c70bd7b-4206-4d6f-be27-105f267c1307" />
 
-![waveform](waveform.png)
 
 - ✔️ `cand1_vote_recvd` and `cand2_vote_recvd` increment as expected.
 - ✔️ `led` displays `FF` during vote casting and switches to actual count in result mode.
